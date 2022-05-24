@@ -1,4 +1,4 @@
-module github.com/themaxi/redistore
+module github.com/themaxi/redistore/v2
 
 go 1.18
 
